@@ -1,2 +1,2 @@
-print("hola")
+print("Buenos dias")
 print("Adios")
